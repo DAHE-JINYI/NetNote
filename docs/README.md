@@ -11,9 +11,9 @@ actions:
 ---
 
 ::: tip
-培训室局域网内可以访问 <http://note.ws22> 速度更快嗷~ `┗|｀O′|┛`
-
-可以按 <kbd>Ctrl</kbd> + <kbd>F5</kbd> 获取页面更新。
+- 本网站已经永久迁移到 <https://Net.Note.Yue.Zone/> ！
+- YuePlus.ink 域名将在 `2023-11-12 07:59:59` 过期！
+- 可以按 <kbd>Ctrl</kbd> + <kbd>F5</kbd> 获取页面更新。
 :::
 
 # 贡献者
@@ -76,6 +76,11 @@ actions:
     <img class="head-img" src="/img/portrait/LX-plus.jpg" alt="LX-plus" />
     <br />
     LX-plus
+</a>
+<a class="head-link" target="_blank" href="https://github.com/Eternal-Lord">
+    <img class="head-img" src="/img/portrait/Eternal-Lord.png" alt="Eternal-Lord" />
+    <br />
+    Eternal-Lord
 </a>
 
 # 许可证
